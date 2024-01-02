@@ -1,0 +1,44 @@
+# Example
+#1. If its raining: sit inside
+#2. Else go out and play
+#psedu code
+
+if(True):
+    {
+    print()
+    }
+
+
+else:
+    {
+    print()
+    }
+
+#******Looping statement*********
+#looping statements are used to repeat a task multiple times\
+while(True):
+    {
+    print()
+    }
+
+#********** FUNCTIONS**************
+#FUNCTIONS EXAMPLE EATING, RUNNING ETC..
+#FUNCTION IS BLOCK OF CODE WHICH PERFORMS A SPECFIC TASK
+# FUNCTION TO WITHDRAW MONEY, DEPOSIT.
+
+#*******OOPS**********
+#CLASS: IS A TEMPLATE/BLUEPRINT FOR REAL WORLD ENTITIES.
+# MOBILE EXAMPLE
+#PROPERTIES: COLOR, COST,BATTERY LIFE.
+#BEHAVIOR: MAKE CALLS, WATCH VIDEOS,PLAY GAMES
+#OBJEECT:INSTANCE OF CLASS
+#FOR EX: MOBILE BE CLASS AND DIFFERENT BRAND OF PHONE ARE OBJECTS
+#ALL OF THIS OBJECT SINCE PART OF THE MOBILE PHONE THEY SHARE COMMON PROPERTIES & BEHAVIOR.
+# WHAT IS DIFFERENCE OF OJECTS I.E IN PHONE PERSPECTIVE: COST OF MOBILE PHONES BE DIFFERENT, MAKING CALLS, COLR ETC..
+
+
+
+
+
+
+
